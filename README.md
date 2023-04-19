@@ -6,4 +6,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbscks97&layout=compact)](https://github.com/dbscks97/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbscks97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbscks97&show_icons=true&theme=dark)
