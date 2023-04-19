@@ -11,4 +11,5 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)<br/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbscks97&show_icons=true&theme=tokyonight)
