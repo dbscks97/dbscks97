@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yunchan97.tistory.com/"/>
 </a>
 <a href="https://yunchan97.tistory.com/">
- <img src="https://img.shields.io/badge/Blog-#000000?style=flat&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20Blog-#000000?style=flat&logo=tistory&logoColor=white&link=https://yunchan97.tistory.com/"/>
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)<br/>
