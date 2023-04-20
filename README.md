@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:9678B7,100:92B2C2&height=200&section=header&text=Hi!%20i'm%20Yunchan&fontSize=70&fontColor=FFFFFF" />
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:9678B7,100:92B2C2&height=200&section=header&text=Hi!%20i'm%20Yunchan&fontSize=70&fontColor=FFFFFF" />
+</div>
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
@@ -13,9 +16,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<a href="https://yunchan97.tistory.com/">
-<img src="https://img.shields.io/badge/%20Blog-000000?style=flat&logo=tistory&logoColor=white&link=https://yunchan97.tistory.com/"/>
-</a>
+  <a href="https://yunchan97.tistory.com/">
+  	<img src="https://img.shields.io/badge/%20Blog-000000?style=flat&logo=tistory&logoColor=white&link=https://yunchan97.tistory.com/"/>
+  </a>
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)
