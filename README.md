@@ -34,6 +34,8 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	<br>
 </div>
-
+<br>
+<div align=center>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbscks97&show_icons=true&theme=tokyonight)
+</div>
