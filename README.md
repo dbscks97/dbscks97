@@ -36,8 +36,9 @@
 </div>
 <br>
 <div align=center>
-	
+<p>🏆 Baekjoon solved rank 🏆</p>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)
+<br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbscks97&show_icons=true&theme=tokyonight)
 </div>
