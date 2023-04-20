@@ -18,10 +18,11 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
  
 </div>
-
+<br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
+<br>
 <div align=center>
 	<a href="https://yunchan97.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
