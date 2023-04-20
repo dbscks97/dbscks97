@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>💡 Tech Stack 💡</h3>
 	
 </div>
 <div align="center">
@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎁 SNS & Portfolio 🎁</p>
+	<p>📔 about, me 📔</p>
 </div>
 
 <div align=center>
