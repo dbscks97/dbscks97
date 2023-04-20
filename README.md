@@ -4,7 +4,7 @@
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<br>
+	
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
@@ -22,7 +22,7 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-<br>
+
 <div align=center>
 	<a href="https://yunchan97.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
