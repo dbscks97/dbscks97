@@ -41,5 +41,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscks97)](https://solved.ac/dbscks97)
 <br>
 <br>
-![Anurag's GitHub stats](github-readme-stats-ten-theta-73.vercel.app/api?username=dbscks97&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-ten-theta-73.vercel.app/api?username=dbscks97&show_icons=true&theme=tokyonight)
 </div>
